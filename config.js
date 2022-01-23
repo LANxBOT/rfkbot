@@ -12,11 +12,11 @@
 // and thanks you to who support my Bot
 
 gc1 = 'https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV'
-gc2 = ''
+gc2 = 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'
 gc3 = ''
 global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
 global.owner = ['60189830350'] // Put your number here //owner eval
-global.kontak = ['60189830350','0'] //Ketika ada yang ngetik #owner
+global.kontak = ['60189830350','60149431385'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['60189830350'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -45,10 +45,10 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namagithub = 'gihtub.com/BOTLIYN'
 kasihcaption = `Nih kak`
-namakontak1 = 'Andrii Street Moonshine'
-namakontak2 = 'Andrii Street Moonshine'
+namakontak1 = 'Lan Offcial🥀'
+namakontak2 = 'Bot Lan🥀'
 
 //kasihcaption = `Nih Kak`
 
@@ -57,10 +57,10 @@ global.packname = 'By Andrii Street Moonshine' // ganti aja
 global.author = 'Andrii Street Moonshine' // ganti aja
 
 //yyy
-bc = 'RFK' //ANDRIIxBOTZ Broadcast
+bc = 'RFK' //LanxBOTZ Broadcast
 footer = '\n©LANxBOTZ'
-namabot = 'BOTZLYN'
-namalu = 'Lan Official'
+namabot = 'BOT LYN🌸'
+namalu = 'Lan Official🥀'
 
 
 // 
