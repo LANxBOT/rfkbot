@@ -53,8 +53,8 @@ namakontak2 = 'Bot Lan🥀'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By Andrii Street Moonshine' // ganti aja
-global.author = 'Andrii Street Moonshine' // ganti aja
+global.packname = 'By Lan Offcial🌸' // ganti aja
+global.author = 'Bot Lyn🥀' // ganti aja
 
 //yyy
 bc = 'RFK' //LanxBOTZ Broadcast
